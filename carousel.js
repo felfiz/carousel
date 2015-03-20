@@ -1,6 +1,6 @@
 // Carousel
 
-function setaImagem() {
+function Carousel() {
   var settings = {
     firstImg: function() {
       element = document.querySelector('.one_photo');
@@ -83,4 +83,4 @@ function setaImagem() {
     //document.querySelector('.one_photo').addEventListener('click', this.classList('active'), false);
   }
 
-  window.addEventListener('load',setaImagem,false);
+  window.addEventListener('load',Carousel,false);
