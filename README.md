@@ -1,2 +1,3 @@
 # carousel
-Javascript Pure Carousel
+
+Not working properly yet.
